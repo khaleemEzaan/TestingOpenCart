@@ -1,0 +1,621 @@
+10:51:11.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+10:51:12.205 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+10:51:12.937 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+10:51:14.386 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+10:51:15.098 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+10:51:15.098 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+
+
+11:00:21.024 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:00:21.127 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:00:22.068 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:00:22.823 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:00:23.495 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:00:23.496 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:17:00.096 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:17:00.620 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:17:01.569 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:17:03.335 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:17:04.299 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:17:04.300 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:18:06.041 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:18:06.184 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:18:06.943 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:18:07.656 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:18:08.163 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:18:08.164 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:19:32.941 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:19:33.091 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:19:33.956 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:19:34.481 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:19:34.978 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:19:34.978 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:24:16.902 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:24:16.997 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:24:17.758 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:24:18.290 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:24:18.756 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:24:18.757 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:24:45.062 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:24:45.152 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:24:45.794 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:24:46.402 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:24:46.915 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:24:46.916 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:24:47.694 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:24:47.695 [main] ERROR testCases.TC001_AccountRegistrationTest - test Failed
+11:27:32.478 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:27:32.999 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:27:35.654 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:27:35.759 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:27:42.967 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:27:44.154 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:27:44.305 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:27:45.442 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:27:45.554 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:27:45.555 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:27:46.137 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:27:46.137 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:37:42.443 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:37:42.538 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:37:43.373 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:37:43.943 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:37:44.719 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:37:44.719 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+11:51:27.014 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+11:51:27.120 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+11:51:29.010 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+11:51:29.736 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+11:51:30.374 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+11:51:30.374 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+14:19:11.591 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+14:19:11.912 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+14:19:12.954 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+14:19:14.077 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+14:19:14.735 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+14:19:14.735 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+14:19:38.052 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+14:19:41.573 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+14:25:31.289 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+14:25:53.377 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+14:25:55.648 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+16:28:04.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:28:53.409 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:28:53.500 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:28:53.524 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:28:53.574 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:28:53.587 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:28:54.705 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:28:54.707 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:28:54.966 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:30:08.884 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:30:32.100 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:30:32.147 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:30:32.163 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:30:32.176 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:30:32.185 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:30:33.207 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:30:33.213 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:30:33.364 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:32:54.349 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:33:17.833 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:33:17.874 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:33:17.881 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:33:17.891 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:33:17.900 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:33:18.770 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:33:18.771 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:33:18.917 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:36:22.033 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:36:40.455 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:36:40.458 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:36:40.648 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:40:45.159 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:41:00.486 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:41:00.533 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:41:00.541 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:41:00.554 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:41:00.560 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:41:00.997 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:41:00.999 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:41:01.127 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:46:49.239 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:47:12.134 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:47:12.171 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:47:12.187 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:47:12.204 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:47:12.224 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:47:12.834 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:47:12.836 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:47:12.997 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:51:34.350 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:51:54.220 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:51:54.287 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:51:54.293 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:51:54.307 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:51:54.314 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:51:54.789 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:51:54.791 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:51:54.958 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:59:08.590 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+16:59:25.333 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:59:25.373 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:59:25.386 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:59:25.401 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:59:25.408 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+16:59:25.756 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+16:59:25.758 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+16:59:25.922 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:05:48.085 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:06:04.114 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:06:04.177 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:06:04.188 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:06:04.195 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:06:04.204 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:06:04.989 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:06:04.991 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:06:05.114 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:07:44.176 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:08:01.503 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:08:01.577 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:08:01.588 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:08:01.601 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:08:01.610 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:08:02.113 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:08:02.115 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:08:02.255 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:12:43.510 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:13:06.496 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:13:06.497 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:13:06.653 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:17:08.252 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:17:32.076 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:17:33.543 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:17:33.552 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:17:33.564 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:17:33.572 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:17:34.193 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:17:34.195 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:17:34.504 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:21:30.701 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:21:50.865 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:21:50.905 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:21:50.910 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:21:50.915 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:21:50.921 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:21:50.926 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:21:52.107 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:21:52.109 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:21:52.279 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:39:15.609 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:39:36.234 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:39:36.285 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:39:36.298 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:39:36.307 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:39:36.324 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:39:36.340 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:39:36.740 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:39:36.742 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:39:36.879 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:46:36.392 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:46:58.406 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:46:58.451 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:46:58.459 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:46:58.465 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:46:58.474 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:46:58.491 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+17:46:58.960 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:46:58.964 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+17:46:59.085 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+17:50:28.674 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:50:28.896 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+17:59:25.779 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+18:00:03.626 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:00:03.690 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:00:03.705 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:00:03.722 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:00:03.739 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:00:03.758 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:00:05.267 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:00:05.269 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+18:00:05.404 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:04:55.236 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+18:05:16.701 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:05:16.741 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:05:16.750 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:05:16.759 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:05:16.769 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:05:16.776 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED********
+18:05:17.458 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:05:17.460 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+18:05:17.599 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:16:12.898 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+18:16:34.133 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:16:34.163 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:16:34.175 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:16:34.187 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:16:34.195 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:16:34.201 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:16:35.408 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:16:35.410 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+18:16:35.552 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:20:38.582 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+18:20:58.290 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:20:58.327 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:20:58.343 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:20:58.348 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:20:58.353 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:20:58.358 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:20:58.794 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:20:58.796 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+18:20:58.936 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:22:33.987 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+18:22:50.539 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:22:50.573 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:22:50.580 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:22:50.590 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:22:50.598 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:22:50.606 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:22:52.118 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:22:52.120 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+18:22:52.287 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:26:28.992 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+18:26:48.773 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:26:48.834 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:26:48.846 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:26:48.856 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:26:48.865 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:26:48.877 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+18:26:49.314 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+18:26:49.315 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+18:26:49.531 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:10:30.974 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:10:31.215 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:10:31.218 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:10:31.386 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:12:10.001 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+08:12:30.207 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+08:12:30.304 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+08:12:31.240 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+08:12:31.958 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+08:12:32.605 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+08:12:32.605 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+08:12:50.497 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+08:12:50.525 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+08:12:50.546 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+08:12:50.576 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+08:12:50.581 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+08:12:50.585 [main] INFO  testCases.TC003_DDT - ******Test DDT TC-003 STARTED*  *******
+08:12:51.728 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:12:51.729 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:12:52.031 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:13:40.932 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+08:14:01.693 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+08:14:01.794 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+08:14:02.970 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+08:14:03.678 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+08:14:04.219 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+08:14:04.219 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+08:14:04.677 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:14:04.678 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:15:57.204 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:15:57.373 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:15:57.377 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:15:57.543 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:17:58.118 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:17:58.348 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:17:58.351 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:17:58.610 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:27:00.839 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:27:01.009 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:27:01.011 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:27:01.207 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:29:22.853 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:29:23.063 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:29:23.069 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:29:23.282 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:30:20.381 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:30:20.572 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:30:20.575 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:30:20.717 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:31:25.541 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:31:25.718 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:31:25.722 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:31:25.938 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:37:19.564 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:37:19.747 [main] INFO  testBase.BaseClass - ***Started TEST Case**********
+08:37:19.838 [main] ERROR testBase.BaseClass - test Failed
+08:37:19.886 [main] INFO  testBase.BaseClass - *********Test Started*********
+08:37:20.007 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:37:20.010 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:37:20.220 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:39:55.810 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:39:56.058 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:39:56.060 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:39:56.272 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:40:56.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:40:56.299 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:40:56.302 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:40:56.438 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:43:52.955 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:43:53.130 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:43:53.135 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:43:53.373 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:54:05.644 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:54:23.179 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+08:54:23.273 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+08:54:24.261 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+08:54:24.872 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+08:54:25.919 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+08:54:25.919 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+08:54:42.506 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+08:54:44.113 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+08:54:44.555 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:54:44.556 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:56:06.050 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+08:56:06.279 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+08:56:06.282 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+08:56:06.429 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:13:53.978 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:13:54.140 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:13:54.143 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:13:54.346 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:14:38.223 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:14:38.393 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:14:38.396 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:14:38.601 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:15:22.869 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:15:23.031 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:15:23.034 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:15:23.223 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:19:01.959 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:19:02.147 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:19:02.153 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:19:02.385 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:40:03.788 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:40:03.998 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:40:04.001 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:40:04.319 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:42:59.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:43:00.017 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:43:00.019 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:43:00.215 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:43:21.245 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+09:43:54.102 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+09:43:54.379 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+09:43:59.115 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+09:44:00.271 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+09:44:00.878 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+09:44:00.879 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+09:44:15.657 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+09:44:17.066 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+09:44:18.047 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:44:18.048 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:09:15.136 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+12:09:39.642 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+12:09:39.752 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+12:09:40.482 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+12:09:41.083 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+12:09:41.684 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+12:09:41.685 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+12:09:42.036 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:09:42.037 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:17:18.700 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+12:17:31.188 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+12:17:31.287 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+12:17:32.867 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+12:17:33.444 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+12:17:34.021 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+12:17:34.021 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+12:17:35.219 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:17:35.221 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:19:19.330 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+12:19:29.409 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+12:19:30.870 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+12:19:31.145 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:19:31.147 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:20:01.579 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+12:20:14.058 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+12:20:14.162 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+12:20:14.946 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+12:20:15.700 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+12:20:16.213 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+12:20:16.261 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+12:20:27.651 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+12:20:29.470 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+12:20:29.757 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:20:29.759 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:22:37.658 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+12:22:50.391 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+12:22:50.632 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+12:22:51.599 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+12:22:52.360 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+12:22:52.963 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+12:22:52.963 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+12:23:03.905 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+12:23:05.474 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+12:23:06.315 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:23:06.316 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:30:40.650 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+12:30:52.517 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+12:30:52.604 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+12:30:53.372 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+12:30:53.957 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+12:30:54.551 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+12:30:54.552 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+12:30:55.529 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:30:55.531 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:31:32.801 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\grouping.xml
+
+12:31:43.983 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+12:31:44.073 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+12:31:45.171 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+12:31:45.823 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+12:31:46.387 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+12:31:46.387 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+12:31:56.290 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+12:32:09.588 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+12:32:09.590 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+12:32:09.705 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:56:30.713 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+09:56:49.269 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+09:56:49.455 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+09:56:50.198 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+09:56:51.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+09:56:51.655 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+09:56:51.655 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+09:56:53.804 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:56:53.806 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+09:57:42.406 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\lenovo\Desktop\Selenium Practice\openCart123\master.xml
+
+09:57:56.950 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+09:57:57.406 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+09:57:59.071 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+09:57:59.862 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+09:58:00.824 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+09:58:00.824 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+09:58:02.560 [main] INFO  org.testng.internal.Utils - [[Utils]] The system cannot find the path specified
+09:58:02.565 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+14:38:04.990 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+14:40:34.018 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+14:40:34.584 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+14:40:35.378 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+14:40:36.444 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+14:40:37.290 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+14:40:37.291 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+14:40:38.907 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+15:09:58.863 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+15:09:59.184 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+15:10:00.231 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+15:10:01.301 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+15:10:02.682 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+15:10:02.683 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+15:10:16.561 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+15:10:18.659 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+15:10:21.954 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+15:13:43.556 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+15:13:43.783 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+15:13:44.484 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+15:13:45.788 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+15:13:46.376 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+15:13:46.377 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+15:14:01.202 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+15:14:03.144 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+15:14:04.434 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
+15:15:21.930 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Started TEST Case**********
+15:15:22.064 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on MyAccount**********
+15:15:22.917 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on Register**********
+15:15:23.514 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Passord entered in Confirm password**********
+15:15:24.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Clicked on ContinueButton**********
+15:15:24.017 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Finished Test Case**********
+15:15:38.094 [main] INFO  testCases.TC002_LoginTest - *********Test Started*********
+15:15:39.475 [main] INFO  testCases.TC002_LoginTest - *********Test Completed *********
+15:15:40.328 [main] INFO  org.testng.reporters.TestHTMLReporter - [TestHTMLReporter] The system cannot find the path specified
